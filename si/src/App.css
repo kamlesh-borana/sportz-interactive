@@ -1,0 +1,10 @@
+@media only screen and (max-width: 580px) {
+  .col {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+  .my-5 {
+    margin-top: 2rem!important;
+    margin-bottom: 2rem!important;
+  }
+}
